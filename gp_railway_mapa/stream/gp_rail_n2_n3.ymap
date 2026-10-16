@@ -1,0 +1,1812 @@
+<?xml version="1.0"?>
+<CMapData>
+  <name>gp_rail_n2_n3</name>
+  <flags value="2"/>
+  <contentFlags value="65"/>
+  <streamingExtentsMin x="-1597.0675" y="-2006.9070" z="-357.8372"/>
+  <streamingExtentsMax x="-484.6064" y="-802.0061" z="479.0684"/>
+  <entitiesExtentsMin x="-1197.0675" y="-1606.9070" z="42.1628"/>
+  <entitiesExtentsMax x="-884.6064" y="-1202.0061" z="79.0684"/>
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-886.8402" y="-1202.0061" z="42.6446"/>
+      <rotation w="0.030510" x="0.000000" y="-0.000010" z="-0.999534"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-887.0375" y="-1206.9548" z="42.6424"/>
+      <rotation w="0.021790" x="-0.000000" y="-0.000010" z="-0.999763"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-887.2203" y="-1217.1083" z="42.6819"/>
+      <rotation w="0.013070" x="0.000000" y="-0.000010" z="-0.999915"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-887.1051" y="-1222.2952" z="42.6879"/>
+      <rotation w="0.021840" x="0.000000" y="0.000010" z="0.999761"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-886.8536" y="-1227.4626" z="42.6956"/>
+      <rotation w="0.013110" x="0.000000" y="0.000010" z="0.999914"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-886.6448" y="-1232.6383" z="42.7127"/>
+      <rotation w="0.013110" x="0.000000" y="0.000010" z="0.999914"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-886.4474" y="-1237.6879" z="42.7131"/>
+      <rotation w="0.013110" x="0.000000" y="0.000010" z="0.999914"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-886.2886" y="-1242.8888" z="42.7281"/>
+      <rotation w="0.004390" x="0.000000" y="0.000010" z="0.999990"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-886.1797" y="-1248.0189" z="42.7462"/>
+      <rotation w="0.004390" x="0.000000" y="0.000010" z="0.999990"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-886.0718" y="-1253.2075" z="42.7698"/>
+      <rotation w="0.004390" x="0.000000" y="0.000010" z="0.999990"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-885.9554" y="-1258.3905" z="42.7116"/>
+      <rotation w="0.004390" x="0.000060" y="-0.013080" z="0.999905"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-885.5727" y="-1273.6681" z="42.3915"/>
+      <rotation w="0.013110" x="0.000230" y="-0.017450" z="0.999762"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-885.3557" y="-1278.8591" z="42.2862"/>
+      <rotation w="0.013120" x="0.000060" y="-0.004360" z="0.999904"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-885.1517" y="-1283.9398" z="42.2542"/>
+      <rotation w="0.013120" x="0.000060" y="-0.004360" z="0.999904"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-884.9649" y="-1289.0422" z="42.2180"/>
+      <rotation w="0.013120" x="0.000060" y="-0.004360" z="0.999904"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-884.7647" y="-1294.1943" z="42.2231"/>
+      <rotation w="0.013120" x="-0.000000" y="0.000010" z="0.999914"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-884.6545" y="-1299.3790" z="42.3055"/>
+      <rotation w="0.004340" x="-0.000040" y="-0.008730" z="-0.999952"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-884.6308" y="-1304.3878" z="42.2795"/>
+      <rotation w="0.004340" x="0.000080" y="0.017450" z="-0.999838"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-884.6064" y="-1309.5259" z="42.1671"/>
+      <rotation w="0.004340" x="0.000040" y="0.008720" z="-0.999953"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-884.6707" y="-1314.6266" z="42.1628"/>
+      <rotation w="0.021790" x="-0.000100" y="-0.004370" z="-0.999753"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-884.8359" y="-1319.8440" z="42.2559"/>
+      <rotation w="0.021790" x="-0.000190" y="-0.008730" z="-0.999724"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-884.9883" y="-1324.8213" z="42.3545"/>
+      <rotation w="0.021790" x="-0.000190" y="-0.008730" z="-0.999724"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-885.1416" y="-1329.9531" z="42.3514"/>
+      <rotation w="0.021790" x="0.000290" y="0.013080" z="-0.999677"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-885.2974" y="-1335.0873" z="42.2821"/>
+      <rotation w="0.021790" x="0.000090" y="0.004360" z="-0.999753"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-885.4426" y="-1340.2195" z="42.2807"/>
+      <rotation w="0.021790" x="-0.000000" y="-0.000010" z="-0.999763"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-885.5858" y="-1345.1825" z="42.3511"/>
+      <rotation w="0.021790" x="-0.000190" y="-0.008730" z="-0.999724"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-885.7399" y="-1350.2097" z="42.4053"/>
+      <rotation w="0.021790" x="-0.000000" y="-0.000010" z="-0.999763"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-885.8824" y="-1355.2357" z="42.4214"/>
+      <rotation w="0.021790" x="-0.000000" y="-0.000010" z="-0.999763"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-886.0452" y="-1360.4398" z="42.4865"/>
+      <rotation w="0.021790" x="-0.000190" y="-0.008730" z="-0.999724"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-886.1896" y="-1365.4846" z="42.5784"/>
+      <rotation w="0.021790" x="-0.000190" y="-0.008730" z="-0.999724"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-886.3442" y="-1370.7399" z="42.6986"/>
+      <rotation w="0.021790" x="-0.000190" y="-0.008730" z="-0.999724"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-886.5089" y="-1375.9347" z="42.8151"/>
+      <rotation w="0.021790" x="-0.000190" y="-0.008730" z="-0.999724"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-886.6683" y="-1381.0895" z="42.9608"/>
+      <rotation w="0.021790" x="-0.000380" y="-0.017450" z="-0.999610"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-886.8256" y="-1386.1376" z="43.1541"/>
+      <rotation w="0.021790" x="-0.000380" y="-0.017450" z="-0.999610"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-886.9897" y="-1391.3247" z="43.3662"/>
+      <rotation w="0.021790" x="-0.000480" y="-0.021810" z="-0.999525"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-887.4544" y="-1396.2881" z="43.6604"/>
+      <rotation w="0.082740" x="-0.002890" y="-0.034780" z="-0.995960"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-888.4829" y="-1401.0905" z="43.8111"/>
+      <rotation w="0.134830" x="0.000590" y="0.004320" z="-0.990859"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-889.7135" y="-1405.6051" z="43.6562"/>
+      <rotation w="0.143419" x="0.003750" y="0.025900" z="-0.989316"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-891.0421" y="-1410.3032" z="43.4666"/>
+      <rotation w="0.143451" x="0.002500" y="0.017270" z="-0.989504"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-891.6125" y="-1412.3115" z="43.9997"/>
+      <rotation w="0.142810" x="-0.013750" y="-0.094860" z="-0.985098"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-891.7491" y="-1412.8522" z="44.2197"/>
+      <rotation w="0.142620" x="-0.015620" y="-0.107750" z="-0.983771"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-893.1299" y="-1417.7332" z="44.8537"/>
+      <rotation w="0.143451" x="-0.002500" y="-0.017280" z="-0.989503"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-894.9993" y="-1422.2513" z="45.1933"/>
+      <rotation w="0.254340" x="-0.011110" y="-0.042190" z="-0.966130"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-897.7510" y="-1426.0494" z="45.8836"/>
+      <rotation w="0.369130" x="-0.032300" y="-0.080960" z="-0.925281"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-901.2972" y="-1429.3730" z="46.6697"/>
+      <rotation w="0.433499" x="-0.028420" y="-0.058910" z="-0.898777"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-905.1967" y="-1432.4481" z="47.1297"/>
+      <rotation w="0.449930" x="-0.011780" y="-0.023380" z="-0.892680"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-909.2710" y="-1435.4832" z="47.5291"/>
+      <rotation w="0.457331" x="-0.021970" y="-0.042660" z="-0.888001"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-913.0604" y="-1438.3325" z="47.9983"/>
+      <rotation w="0.449568" x="-0.021600" y="-0.042850" z="-0.891956"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-917.0671" y="-1441.3240" z="48.5574"/>
+      <rotation w="0.457122" x="-0.025960" y="-0.050410" z="-0.887595"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-921.3109" y="-1444.3358" z="49.0731"/>
+      <rotation w="0.472940" x="-0.018580" y="-0.034590" z="-0.880219"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-925.5111" y="-1447.2004" z="49.4957"/>
+      <rotation w="0.472940" x="-0.018580" y="-0.034590" z="-0.880219"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-929.7237" y="-1450.0596" z="49.9069"/>
+      <rotation w="0.472940" x="-0.018580" y="-0.034590" z="-0.880219"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-933.9614" y="-1452.8331" z="50.3143"/>
+      <rotation w="0.488230" x="-0.019190" y="-0.034260" z="-0.871831"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-938.2708" y="-1455.5687" z="50.6524"/>
+      <rotation w="0.488489" x="-0.010660" y="-0.019040" z="-0.872297"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-942.3196" y="-1458.0300" z="51.1198"/>
+      <rotation w="0.502682" x="-0.032950" y="-0.056500" z="-0.861993"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-946.7248" y="-1460.5927" z="51.7996"/>
+      <rotation w="0.502682" x="-0.032950" y="-0.056500" z="-0.861993"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-950.9520" y="-1463.0822" z="52.2734"/>
+      <rotation w="0.503450" x="-0.017580" y="-0.030150" z="-0.863319"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-955.4204" y="-1465.7045" z="52.6801"/>
+      <rotation w="0.503369" x="-0.019780" y="-0.033920" z="-0.863179"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-959.6740" y="-1468.2057" z="53.0883"/>
+      <rotation w="0.503369" x="-0.019780" y="-0.033920" z="-0.863179"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-963.9828" y="-1470.7238" z="53.4896"/>
+      <rotation w="0.503369" x="-0.019780" y="-0.033920" z="-0.863179"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-968.4357" y="-1473.3202" z="53.9058"/>
+      <rotation w="0.503369" x="-0.019780" y="-0.033920" z="-0.863179"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-972.7145" y="-1475.8228" z="54.1161"/>
+      <rotation w="0.503762" x="0.000000" y="-0.000000" z="-0.863843"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-977.1993" y="-1478.4507" z="54.1906"/>
+      <rotation w="0.503741" x="-0.004400" y="-0.007540" z="-0.863811"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-981.4716" y="-1480.9431" z="54.3169"/>
+      <rotation w="0.503719" x="-0.006600" y="-0.011310" z="-0.863768"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-985.7883" y="-1483.5707" z="54.4123"/>
+      <rotation w="0.488603" x="-0.002130" y="-0.003810" z="-0.872495"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-989.4860" y="-1485.9318" z="54.5521"/>
+      <rotation w="0.488489" x="-0.010660" y="-0.019040" z="-0.872297"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-993.7344" y="-1488.6176" z="54.8409"/>
+      <rotation w="0.488378" x="-0.014920" y="-0.026650" z="-0.872097"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-997.9155" y="-1491.2578" z="55.2470"/>
+      <rotation w="0.488048" x="-0.023450" y="-0.041870" z="-0.871496"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1002.2244" y="-1493.9899" z="55.6714"/>
+      <rotation w="0.488311" x="-0.017050" y="-0.030450" z="-0.871972"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1006.5313" y="-1496.7123" z="56.1439"/>
+      <rotation w="0.487939" x="-0.025570" y="-0.045670" z="-0.871307"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1010.8489" y="-1499.3342" z="56.7857"/>
+      <rotation w="0.502530" x="-0.035140" y="-0.060260" z="-0.861741"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1015.0779" y="-1501.8108" z="57.4305"/>
+      <rotation w="0.502821" x="-0.030760" y="-0.052740" z="-0.862232"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1019.2914" y="-1504.2662" z="57.8962"/>
+      <rotation w="0.503450" x="-0.017580" y="-0.030150" z="-0.863319"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1023.8090" y="-1506.7922" z="58.3872"/>
+      <rotation w="0.517931" x="-0.029410" y="-0.048470" z="-0.853542"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1028.2162" y="-1509.1733" z="59.0930"/>
+      <rotation w="0.517162" x="-0.040700" y="-0.067080" z="-0.852283"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1032.5076" y="-1511.4980" z="59.8306"/>
+      <rotation w="0.517498" x="-0.036190" y="-0.059640" z="-0.852836"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1036.9236" y="-1513.8712" z="60.6829"/>
+      <rotation w="0.516372" x="-0.049720" y="-0.081940" z="-0.850984"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1041.2856" y="-1516.2306" z="61.5493"/>
+      <rotation w="0.517162" x="-0.040700" y="-0.067080" z="-0.852283"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1045.6960" y="-1518.5492" z="62.2677"/>
+      <rotation w="0.525221" x="-0.032130" y="-0.051920" z="-0.848772"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1050.2406" y="-1520.8938" z="62.8897"/>
+      <rotation w="0.525360" x="-0.029830" y="-0.048210" z="-0.848989"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1054.7059" y="-1523.1958" z="63.3656"/>
+      <rotation w="0.525881" x="-0.018370" y="-0.029680" z="-0.849842"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1059.2603" y="-1525.5392" z="63.8130"/>
+      <rotation w="0.525599" x="-0.025250" y="-0.040800" z="-0.849378"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1063.7845" y="-1527.8745" z="64.4621"/>
+      <rotation w="0.524752" x="-0.039000" y="-0.063020" z="-0.848023"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1068.2678" y="-1530.1875" z="65.2087"/>
+      <rotation w="0.524752" x="-0.039000" y="-0.063020" z="-0.848023"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1072.7189" y="-1532.4384" z="65.9748"/>
+      <rotation w="0.532138" x="-0.039550" y="-0.062680" z="-0.843407"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1077.1560" y="-1534.6316" z="66.7076"/>
+      <rotation w="0.532303" x="-0.037230" y="-0.059000" z="-0.843674"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1081.5900" y="-1536.8114" z="67.4871"/>
+      <rotation w="0.531770" x="-0.044190" y="-0.070040" z="-0.842830"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1086.0046" y="-1539.2406" z="68.2968"/>
+      <rotation w="0.494839" x="-0.036780" y="-0.064350" z="-0.865818"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1090.2451" y="-1541.9611" z="68.9919"/>
+      <rotation w="0.472430" x="-0.028900" y="-0.053780" z="-0.879251"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1094.3943" y="-1544.7843" z="69.5963"/>
+      <rotation w="0.472549" x="-0.026840" y="-0.049950" z="-0.879478"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1098.5217" y="-1547.4948" z="70.1025"/>
+      <rotation w="0.488149" x="-0.021320" y="-0.038060" z="-0.871669"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1102.8250" y="-1550.0538" z="70.6263"/>
+      <rotation w="0.510460" x="-0.028990" y="-0.048730" z="-0.858030"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1107.2886" y="-1552.5634" z="71.1122"/>
+      <rotation w="0.510970" x="-0.017850" y="-0.030000" z="-0.858890"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1111.6750" y="-1555.0160" z="71.4627"/>
+      <rotation w="0.510970" x="-0.017850" y="-0.030000" z="-0.858890"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1116.1655" y="-1557.5321" z="71.8280"/>
+      <rotation w="0.510970" x="-0.017850" y="-0.030000" z="-0.858890"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1120.5781" y="-1560.0203" z="72.1428"/>
+      <rotation w="0.511108" x="-0.013390" y="-0.022500" z="-0.859117"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1124.9502" y="-1562.4747" z="72.4162"/>
+      <rotation w="0.511108" x="-0.013390" y="-0.022500" z="-0.859117"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1129.2537" y="-1564.8810" z="72.6992"/>
+      <rotation w="0.511108" x="-0.013390" y="-0.022500" z="-0.859117"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1133.5560" y="-1567.2916" z="72.9564"/>
+      <rotation w="0.511108" x="-0.013390" y="-0.022500" z="-0.859117"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1137.7888" y="-1569.6729" z="73.5135"/>
+      <rotation w="0.509710" x="-0.040120" y="-0.067430" z="-0.856761"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1142.1177" y="-1572.1005" z="74.3167"/>
+      <rotation w="0.509710" x="-0.040120" y="-0.067430" z="-0.856761"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1146.4398" y="-1574.6959" z="75.0206"/>
+      <rotation w="0.487828" x="-0.027700" y="-0.049470" z="-0.871097"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1150.6840" y="-1577.3773" z="75.4901"/>
+      <rotation w="0.488311" x="-0.017050" y="-0.030450" z="-0.871972"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1154.8425" y="-1580.0128" z="75.8934"/>
+      <rotation w="0.488149" x="-0.021320" y="-0.038060" z="-0.871669"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1159.0233" y="-1582.6768" z="76.2781"/>
+      <rotation w="0.488383" x="-0.014920" y="-0.026650" z="-0.872095"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1163.1964" y="-1585.3098" z="76.3071"/>
+      <rotation w="0.488442" x="0.012790" y="0.022830" z="-0.872204"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1167.4346" y="-1587.9900" z="76.0453"/>
+      <rotation w="0.488442" x="0.012790" y="0.022830" z="-0.872204"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1171.6284" y="-1590.6403" z="75.9155"/>
+      <rotation w="0.488611" x="0.002130" y="0.003800" z="-0.872491"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1175.8605" y="-1593.3090" z="76.1215"/>
+      <rotation w="0.488238" x="-0.019190" y="-0.034260" z="-0.871827"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1180.1753" y="-1596.0417" z="76.6085"/>
+      <rotation w="0.487939" x="-0.025570" y="-0.045670" z="-0.871307"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1184.4036" y="-1598.7183" z="77.2472"/>
+      <rotation w="0.487418" x="-0.034090" y="-0.060870" z="-0.870377"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1188.5034" y="-1601.3289" z="77.8672"/>
+      <rotation w="0.487828" x="-0.027700" y="-0.049470" z="-0.871097"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1192.8639" y="-1604.0775" z="78.4737"/>
+      <rotation w="0.487828" x="-0.027700" y="-0.049470" z="-0.871097"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1197.0675" y="-1606.9070" z="79.0684"/>
+      <rotation w="0.464740" x="-0.028430" y="-0.054030" z="-0.883340"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-885.7319" y="-1268.5338" z="42.5215"/>
+      <rotation w="0.004340" x="0.000040" y="-0.008720" z="0.999953"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-885.8479" y="-1263.4288" z="42.6007"/>
+      <rotation w="0.004340" x="0.000040" y="-0.008720" z="0.999953"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_cs_railroadtrack01x</archetypeName>
+      <flags value="1572897"/>
+      <position x="-887.1492" y="-1212.1237" z="42.6672"/>
+      <rotation w="0.013070" x="0.000000" y="-0.000010" z="-0.999915"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>mp_big_rock_scan_02</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1118.3613" y="-1558.5120" z="69.7795"/>
+      <rotation w="0.998652" x="0.009550" y="-0.017010" z="-0.048110"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>mp_big_rock_scan_02</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1127.9149" y="-1563.4960" z="70.3869"/>
+      <rotation w="0.993851" x="0.010570" y="-0.016400" z="-0.108990"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>mp_big_rock_scan_02</archetypeName>
+      <flags value="1572897"/>
+      <position x="-1123.2996" y="-1560.8530" z="70.0810"/>
+      <rotation w="0.993851" x="0.010570" y="-0.016400" z="-0.108990"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+  </entities>
+</CMapData>
